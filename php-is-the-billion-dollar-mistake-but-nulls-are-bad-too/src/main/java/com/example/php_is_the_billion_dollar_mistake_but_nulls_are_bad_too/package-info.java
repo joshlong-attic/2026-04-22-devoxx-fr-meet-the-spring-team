@@ -1,0 +1,4 @@
+@NullMarked
+package com.example.php_is_the_billion_dollar_mistake_but_nulls_are_bad_too;
+
+import org.jspecify.annotations.NullMarked;
